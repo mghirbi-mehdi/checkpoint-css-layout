@@ -1,0 +1,124 @@
+.toutou{
+    width: 290px;
+    height: 200px;
+    
+    
+}
+nav{ 
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+nav img{
+    margin-top: -75px;
+    position: relative;
+}
+.taw li{
+    display: inline;
+    margin-right: 85px;
+    position: relative;
+    padding: 0px 9px;
+
+}
+.mala { 
+    display: block;
+    justify-content: center;
+     align-items: center;
+      height: 4vh;
+       margin: 0;
+       
+
+}
+.bnina h1{
+    font-size: 60px;
+    text-align: center;
+    color: aquamarine;
+}
+.par p{
+    font-size: 20px;
+    display: flex;
+    flex: 1;
+    padding: 20px;
+     border: 1px solid #b31010;
+}
+.behy h1{
+    font-size: 35px;
+    display: flex;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.behy{
+    background-color: #14c791;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 1200px;
+    margin-bottom: 20px;
+}
+
+.behy h2{
+    font-size: 25px;
+    display: flex;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.behyn h1{
+    font-size: 35px;
+    display: flex;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.behyn{
+    align-items: center;
+    font-style: italic;
+    background-color: #14c791;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 1200px;
+    margin-bottom: 20px;
+}
+.behyn h2{
+    font-size: 25px;
+    display: flex;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.ok h1{
+    font-size: 35px;
+    display: flex;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.ok{
+    align-items: center;
+    font-style: italic;
+    background-color: #14c791;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 1200px;
+}
+.ok h2{
+    font-size: 25px;
+    display: flex;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.fok {
+    align-items:center;
+}
+.tawtaw{
+    align-items: center;
+    font-style: italic;
+    background-color: #020706;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 1200px;
+    margin-bottom: 20px;
+    color: aliceblue;
+} 
+}
