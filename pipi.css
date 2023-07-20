@@ -1,6 +1,7 @@
 .toutou{
     width: 290px;
     height: 200px;
+    margin-right: 490px;
     
     
 }
@@ -22,10 +23,9 @@ nav img{
 }
 .mala { 
     display: block;
-    justify-content: center;
-     align-items: center;
-      height: 4vh;
-       margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 4%;
        
 
 }
